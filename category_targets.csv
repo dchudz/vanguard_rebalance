@@ -1,4 +1,4 @@
-Category,TargetPercent
-intl_equity,36
-bond,10
-us_equity,54
+Category,TargetProportion
+intl_equity,.36
+bond,.10
+us_equity,.54
